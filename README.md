@@ -36,8 +36,8 @@ For detailed code, check the files in the repository:
 
   
 Getting Started
-- Clone the repository: git clone <repo_url>
-- Install required packages: pip install -r requirements.txt
+- Clone the repository.
+- Install required packages.
 - Update the file paths and URLs as needed.
 - Run the scraping, cleaning, and analysis scripts.
 
