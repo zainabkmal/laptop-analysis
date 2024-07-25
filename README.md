@@ -30,9 +30,9 @@ Tools and Libraries Used:
 
 For detailed code, check the files in the repository:
 
-jarir.py
-[data_data_cleaning.py](https://github.com/zainabkmal/Data_Analysis/blob/0fe267c90d4c47ecb5f3829a9334f82aa786a217/jarir_data_cleaning.py)
-[data_visualization.py](https://github.com/zainabkmal/Data_Analysis/blob/818b7777bdb6565152bcfa5cb59e8e3d318ba0ba/data_%20visualization.py)
+- [jarir.py](https://github.com/zainabkmal/Data_Analysis/blob/97130edf444b4f3990cc1af6d18fca3ba5009efa/jarir.py)
+- [data_data_cleaning.py](https://github.com/zainabkmal/Data_Analysis/blob/0fe267c90d4c47ecb5f3829a9334f82aa786a217/jarir_data_cleaning.py)
+- [data_visualization.py](https://github.com/zainabkmal/Data_Analysis/blob/818b7777bdb6565152bcfa5cb59e8e3d318ba0ba/data_%20visualization.py)
 
   
 Getting Started
