@@ -27,7 +27,14 @@ Tools and Libraries Used:
 - Pandas: Data manipulation and cleaning.
 - Matplotlib: Data visualization.
 - Seaborn: Enhanced data visualization.
-- 
+
+For detailed code, check the files in the repository:
+
+jarir.py
+data_data_cleaning.py
+data_visualization.py
+
+  
 Getting Started
 - Clone the repository: git clone <repo_url>
 - Install required packages: pip install -r requirements.txt
